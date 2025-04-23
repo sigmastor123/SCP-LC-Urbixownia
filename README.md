@@ -3,7 +3,7 @@
 
 Autor: Danx91 (Autor "SCP:LOST_CONTROL)
 
-Edytowane przez: Bartosz`a Białasa (Giga Negron).
+Edytowane przez: Bartosz`a Białasa (Giga Negron). (Tryb jest codziennie rozwijany o nowe rzeczy)
   Przy pomocy: Kutarum, SSkaktusik
 
 
