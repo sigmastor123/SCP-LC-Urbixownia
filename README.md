@@ -27,5 +27,12 @@ Edytowane na potrzebe serwera (Tylko i wyłącznie przez mnie)
 Stworzony plik
 "gamemode\modules\uiu_escape.lua" który nadaje "item_slc_laptop" exp gdy osoba ucieknie
 
+Dodano drużyny
+Serpent Hand
+UIU
+Beta-7
+
 Edytowano również map_config, oraz plik english language
 (Polski nie jest wspomagany jak narazie)
+
+Dodano SCP035.
